@@ -1,0 +1,5 @@
+C0NU6pFBeV7YXYQB7b3G3v4GncVtJF2Po-OuEtHGsU5F
+https://api.jp-tok.speech-to-text.watson.cloud.ibm.com/instances/15e0d441-c5b9-4a98-8358-5b724deabdfa
+
+EWIl2wRuWw2KMVJriIYpMRh3VEVJOOdC1LX-ZGZK6Osc
+https://api.jp-tok.language-translator.watson.cloud.ibm.com/instances/30e83130-9b18-46a6-b35a-0480bdcd3948
